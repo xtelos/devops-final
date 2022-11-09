@@ -1,7 +1,7 @@
 # devops-final
 
 # Server IP for Direct Connection
-54.198.138.26:25565
+Message Developer for IP Address
 
 # General Launch Command for Spigot Based Server with Plugins
 java -Xmx1024M -Xms1024M -jar spigot-1.16.5.jar nogui
